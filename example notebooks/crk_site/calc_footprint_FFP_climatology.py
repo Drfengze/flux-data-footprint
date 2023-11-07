@@ -538,7 +538,7 @@ def plot_footprint(x_2d, y_2d, fs, clevs=None, show_heatmap=True, normalize=None
     else:
         fs = [fs]
 
-    if colormap is None: colormap = cm.jet
+    if colormap is None: colormap = cm.magma
     #Define colors for each contour set
     cs = [colormap(ix) for ix in np.linspace(0, 1, len(fs))]
 
