@@ -1,7 +1,11 @@
 /example\ notebooks/crk_site/PF-SR
 /example\ notebooks/crk_site/tiffs
-/example\ notebooks/crk_site/tiffs_MON
+
+
+
+
 /example\ notebooks/hwk_site
+/example\ notebooks/crk_site/nbar_small_region
 #
 AMF_query.csv
 
@@ -142,3 +146,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+example notebooks/crk_site/tiffs_DAY/
+example notebooks/crk_site/tiffs_MON/
+example notebooks/crk_site/tiffs_YEAR/
