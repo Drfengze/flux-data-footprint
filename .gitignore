@@ -149,3 +149,5 @@ dmypy.json
 example notebooks/crk_site/tiffs_DAY/
 example notebooks/crk_site/tiffs_MON/
 example notebooks/crk_site/tiffs_YEAR/
+example notebooks/crk_site/daily_original_data.csv
+example notebooks/crk_site/flux_more_original.csv
